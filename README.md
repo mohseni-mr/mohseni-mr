@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohammadreza Mohseni (<a href="https://github.com/mohseni-mr">@mohseni-mr</a>)
+👋 Hi, I’m Mohammadreza Mohseni (<a href="https://github.com/mohseni-mr">@mohseni-mr</a>)
 
-- 📫 you may reach me through below links:
+📫 you may reach me through below links:
 
 - https://mohseni.info/bio/
 <br><br>
