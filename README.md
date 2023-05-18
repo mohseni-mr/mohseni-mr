@@ -2,7 +2,7 @@
 
 📫 you may reach me through below links:
 
-- https://mohseni.info/bio/
+- https://bio.mohseni.info/
 <br><br>
 social media:
 - https://www.instagram.com/mohseni.mr/
